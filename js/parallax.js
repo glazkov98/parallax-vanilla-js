@@ -1,4 +1,4 @@
-/** Class representing a parallax. */
+/** Class representing a Parallax. */
 class Parallax {
 
 	/**
